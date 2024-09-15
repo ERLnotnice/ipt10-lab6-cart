@@ -1,0 +1,13 @@
+Order Code: XvENW87H
+Date and Time Ordered: 2024-09-15 14:46:09
+
+Order Items:
+Product ID: 2
+Product Name: 1L Milk
+Price: 120 PHP
+
+Product ID: 5
+Product Name: 25Kg Rice
+Price: 1200 PHP
+
+Total Price: 1320 PHP
